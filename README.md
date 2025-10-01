@@ -10,9 +10,9 @@ How to run the Car Wash Management System Project Using PHP and MySQL
 
 5.Create a database with name cwmsdb
 
-6.Import cwmsdb.sql file(given inside the zip package in SQL file folder)
+6.Import cwmsdb.sql file(given inside the zip package in sql folder)
 
-7.Run the script http://localhost/cwms
+7.Run the script http://localhost/CarWash
 
 Admin Credentials
 Username: admin
